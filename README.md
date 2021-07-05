@@ -11,7 +11,7 @@ Guillaume Barthe
 Temur Malishava
 
 ## Getting Started
-1. Clone this repo (see [tutorial](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository.)
+1. Clone this repo (see [tutorial)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository.)
 2. pip install -r /path/to/requirements.txt
 
 
