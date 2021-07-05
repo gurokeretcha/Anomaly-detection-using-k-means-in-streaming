@@ -15,7 +15,7 @@ Temur Malishava
 2. pip install -r /path/to/requirements.txt
 
 
-## 1 Anomaly Detection Without Streaming
+## 1 Anomaly Detection
 
 ### 1.1 Categories on anomaly detection
 
